@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="3X@,M-U@o*23/#3fm/#l" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="}f.vB8{pMc_3$#*hW7`V"><value name="text"><shadow type="text" id="SRJJ3TT611LfUJ@p-U:4"><field name="TEXT">Oi vc está bem papai</field></shadow></value><next><block type="device_show_leds" id="DkA-IhP[2NscH}ym39ru"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block><block type="device_show_leds" id="%G%b`.6isYbZ[65PMhkB" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="-442" y="258"><field name="LEDS">`
+        . # . . . 
+        # . . . . 
+        # . # # . 
+        # . # . . 
+        # # # . .
+        `</field></block><block type="device_button_event" id="wV)]|!EoSBG:;:^q~^p@" x="-1" y="363"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="wNEvH{Wr54#Oo8a4cII]"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # . # # # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="(7.ZYggm,W6B%8$,2zNF"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="Ueq.tQK!w91LU^EuvZbr"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # # # # # 
+        # . # . . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="RR*OG|-jZB;fV$_:;Ew3"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . . . . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="RMiyec]^R[(0.iep[+hs"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="mQy1-rN6eE3:%W#,+%QF" x="203" y="430"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="QU}jy.Boi(K#+)#3;K4T"><value name="text"><shadow type="text" id="?}t5iL4kcfrvJp+KZE48"><field name="TEXT">Papai tô com fome quero pizza</field></shadow></value><next><block type="device_show_leds" id="beEU7mqA1d)a`D1m7]2y"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="?Ee$IXQ^Qp~`}2**0:,2" x="208" y="784"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="*ZnE{1*k3D%fg}g$z+B3"><value name="text"><shadow type="text" id="}#KO:tr%Uy{Ms{;|jT.["><field name="TEXT">Aaaa papai para isso faz cosiga</field></shadow></value></block></statement></block></xml>
